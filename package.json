@@ -1,0 +1,22 @@
+{
+  "name": "corejs-symbol-ie11",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./scripts/start.js"
+  },
+  "dependencies": {
+    "@babel/runtime-corejs3": "^7.7.7",
+    "core-js": "^3.6.0",
+    "core-js-pure": "^3.6.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
+    "babel-loader": "^8.0.6",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.41.4",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.0"
+  }
+}

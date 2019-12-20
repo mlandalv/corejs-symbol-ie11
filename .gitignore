@@ -1,0 +1,10 @@
+.idea/
+.vs/
+.vscode/
+node_modules/
+
+*.orig
+.DS_Store
+npm-debug.log*
+yarn-error.log
+.~lock*
