@@ -1,4 +1,4 @@
-// This iterator example code is taken from ImmutableJS v3.8.2. Code not needed for the IE 11 crash to occurr are stripped away.
+// This iterator example code is taken from ImmutableJS v3.8.2. Code not needed for the IE 11 crash to occurr is stripped away.
 // https://github.com/immutable-js/immutable-js/blob/v3.8.2/src/Iterator.js
 const ITERATOR_SYMBOL = Symbol.iterator;
 

@@ -1,4 +1,4 @@
-A combination av core-js, @babel/runtime-corejs3 and immutablejs make IE 11 crash.
+Crash in IE 11 with a combination av core-js, @babel/runtime-corejs3 and immutablejs.
 
   - `yarn`
   - `yarn start`
