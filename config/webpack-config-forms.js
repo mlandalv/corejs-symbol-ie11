@@ -3,7 +3,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 const config = {
     mode: 'development',
-    devtool: 'source-map',
+    devtool: false,
     entry: {
         'demo': path.join(__dirname, '../src/index.js')
     },
